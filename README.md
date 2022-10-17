@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampadsikder" alt="sampadsikder" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sampadsikder" target="blank"><img src="https://img.shields.io/twitter/follow/@sampadsikder?logo=twitter&style=for-the-badge" alt="@sampadsikder" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript, Solidity**
 
 - I write articles on [https://oberster84.blogspot.com/](https://oberster84.blogspot.com/)
