@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Javascript, Solidity**
 
-- I write articles on [https://oberster84.blogspot.com/](https://oberster84.blogspot.com/)
-
 - 📫 How to reach me **bsse1219@iit.du.ac.bd**
 
 - I am interested in **Web3, Webdev, Distributed Systems**
