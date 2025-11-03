@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on [https://oberster84.blogspot.com/](https://oberster84.blogspot.com/)
+- 📝 Reach me through: [(https://sampad-sikder.vercel.app/)](https://sampad-sikder.vercel.app/)
 
 - 💬 Ask me about **Distributed Systems, AI/ML, Docker, NodeJS**
 
