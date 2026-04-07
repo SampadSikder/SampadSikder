@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sampad Sikder</h1>
 <h3 align="center">A web3 developer currently working at Brain Station 23 PLC.</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampadsikder" alt="sampadsikder" /></a> </p>
-
 - 🔭 I’m currently working on [FinCube23](https://github.com/FinCube-23)
 
 - 🌱 I’m currently learning **NestJS Microservices and AI/ML**
